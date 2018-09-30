@@ -39,4 +39,4 @@ You will required Python3 with Pyqt5 module to run the Knight else it will give 
 
 Preview of the GUI is here:
 
-<img src="Knight%20the%20webcrawler/icon/preview.jpg" align= "middle">
+<img src="Knight%20the%20webcrawler/icon/preview.jpg" align= "middle" height="800" width="600">
